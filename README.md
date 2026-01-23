@@ -23,6 +23,8 @@ Open `index.html` in your browser to start using the application. Navigate throu
 
 ### Link: https://nbras002.github.io/DebateNetwork
 
+* If the link does not work, use a local server or a public server.
+
 ---
 
 ## العربية
@@ -49,3 +51,5 @@ Open `index.html` in your browser to start using the application. Navigate throu
 
 
 ### الرابط: https://nbras002.github.io/DebateNetwork
+
+* إذا لم يعمل الرابط استخدم خادم محلي أو خادم عام.
