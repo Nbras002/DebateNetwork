@@ -1,0 +1,17 @@
+[
+  {
+    "file": "third-topic.html",
+    "title": "الكتاب المقدس النسخ والترجمات والمخطوطات",
+    "image": "/img/topic3.jpg"
+  },
+  {
+    "file": "second-topic.html",
+    "title": "الحديث النبوي وكتب الحديث ودرجاته",
+    "image": "/img/topic2.jpg"
+  },
+  {
+    "file": "one-topic.html",
+    "title": "القرآن الكريم وقراءاته",
+    "image": "/img/topic1.jpg"
+  }
+]
