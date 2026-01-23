@@ -21,6 +21,8 @@ DebateNetwork is a web-based project that provides access to a variety of religi
 ### Usage
 Open `index.html` in your browser to start using the application. Navigate through the folders for specific resources.
 
+### Link: https://nbras002.github.io/DebateNetwork
+
 ---
 
 ## العربية
@@ -45,3 +47,5 @@ Open `index.html` in your browser to start using the application. Navigate throu
 افتح ملف `index.html` في المتصفح لبدء استخدام التطبيق. يمكنك التنقل بين المجلدات للوصول إلى الموارد المختلفة.
 
 
+
+### الرابط: https://nbras002.github.io/DebateNetwork
