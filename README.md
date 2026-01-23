@@ -2,7 +2,7 @@
 
 ## English
 
-DebateNetwork is a web-based project that provides access to a variety of religious texts, including the Quran, Bible, and Hadith, with search and comparison features. The project is organized into several sections, each dedicated to a specific text or resource, and includes scripts and data files for enhanced interactivity.
+DebateNetwork is a web-based project that provides access to a variety of religious texts, including the Quran, and Hadith, and Bible, with search and comparison features. The project is organized into several sections, each dedicated to a specific text or resource, and includes scripts and data files for enhanced interactivity.
 
 ### Features
 - Quran, Bible, and Hadith texts with search and comparison tools
@@ -25,7 +25,7 @@ Open `index.html` in your browser to start using the application. Navigate throu
 
 ## العربية
 
-مشروع DebateNetwork هو مشروع ويب يتيح الوصول إلى مجموعة متنوعة من النصوص الدينية، بما في ذلك القرآن الكريم والكتاب المقدس والحديث الشريف، مع ميزات البحث والمقارنة. المشروع منظم في عدة أقسام، كل قسم مخصص لنص أو مصدر معين، ويحتوي على سكريبتات وملفات بيانات لزيادة التفاعل.
+مشروع DebateNetwork هو مشروع ويب يتيح الوصول إلى مجموعة متنوعة من النصوص الدينية، بما في ذلك القرآن الكريم والحديث الشريف والكتاب المقدس، مع ميزات البحث والمقارنة. المشروع منظم في عدة أقسام، كل قسم مخصص لنص أو مصدر معين، ويحتوي على سكريبتات وملفات بيانات لزيادة التفاعل.
 
 ### الميزات
 - نصوص القرآن الكريم والكتاب المقدس والحديث مع أدوات البحث والمقارنة
@@ -43,4 +43,5 @@ Open `index.html` in your browser to start using the application. Navigate throu
 
 ### طريقة الاستخدام
 افتح ملف `index.html` في المتصفح لبدء استخدام التطبيق. يمكنك التنقل بين المجلدات للوصول إلى الموارد المختلفة.
+
 
