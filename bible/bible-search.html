@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>بحث الكتاب المقدس | شبكة المناظرة</title>
+    <link rel="icon" type="image/x-icon" href="/img/icon.ico">
+    <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+    <header>
+        <nav class="navbar" role="navigation" aria-label="Main Navigation">
+        <div class="navbar-container">
+            <!-- شعار الموقع بجانب اسم الموقع -->
+            <a href="../index.html" class="navbar-logo">
+                <img src="/img/icon.ico" alt="شعار الموقع" class="navbar-icon" width="28" height="28" />
+                <span>شبكة المناظرة</span>
+            </a>
+            <ul class="navbar-menu">
+                <li class="navbar-item dropdown" tabindex="0" aria-haspopup="true" aria-expanded="false">
+                    <a href="/quran/quran-texts.html" class="navbar-link">القرآن الكريم</a>
+                    <ul class="dropdown-menu" aria-label="Quran submenu">
+                        <li><a href="/quran/quran-texts.html" class="dropdown-link">النصوص</a></li>
+                        <li><a href="/quran/quran-comps.html" class="dropdown-link">المقارنة</a></li>
+                        <li><a href="/quran/quran-search.html" class="dropdown-link">البحث</a></li>
+                    </ul>
+                </li>
+                <li class="navbar-item dropdown" tabindex="0" aria-haspopup="true" aria-expanded="false">
+                    <a href="/hadith/hadeeth-texts.html" class="navbar-link">الحديث النبوي</a>
+                    <ul class="dropdown-menu" aria-label="Hadith submenu">
+                        <li><a href="/hadith/hadeeth-texts.html" class="dropdown-link">النصوص</a></li>
+                        <li><a href="/hadith/hadeeth-comps.html" class="dropdown-link">المقارنة</a></li>
+                        <li><a href="/hadith/hadeeth-search.html" class="dropdown-link">البحث</a></li>
+                    </ul>
+                </li>
+                <li class="navbar-item dropdown" tabindex="0" aria-haspopup="true" aria-expanded="false">
+                    <a href="/bible/bible-texts.html" class="navbar-link">الكتاب المقدس</a>
+                    <ul class="dropdown-menu" aria-label="Bible submenu">
+                        <li><a href="/bible/bible-texts.html" class="dropdown-link">النصوص</a></li>
+                        <li><a href="/bible/bible-comps.html" class="dropdown-link">المقارنة</a></li>
+                        <li><a href="/bible/bible-search.html" class="dropdown-link">البحث</a></li>
+                    </ul>
+                </li>
+                <li class="navbar-item dropdown" tabindex="0" aria-haspopup="true" aria-expanded="false">
+                    <a href="/blog/all-topic.html" class="navbar-link">المدونة</a>
+                    <ul class="dropdown-menu" aria-label="Blog submenu">
+                        <li><a href="/blog/one-topic.html" class="dropdown-link">الموضوع الأول</a></li>
+                        <li><a href="/blog/second-topic.html" class="dropdown-link">الموضوع الثاني</a></li>
+                        <li><a href="/blog/third-topic.html" class="dropdown-link">الموضوع الثالث</a></li>
+                    </ul>
+                </li>
+                <li class="navbar-item dropdown" tabindex="0" aria-haspopup="true" aria-expanded="false">
+                    <a href="/about/about.html" class="navbar-link">حول</a>
+                    <ul class="dropdown-menu" aria-label="About submenu">
+                        <li><a href="/about/about.html" class="dropdown-link">عن الشبكة</a></li>
+                        <li><a href="/about/faq.html" class="dropdown-link">الأسئلة الشائعة</a></li>
+                        <li><a href="/about/contact.html" class="dropdown-link">اتصل بنا</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <main class="main-content">
+        <section class="bible-nav-box">
+            <div class="bible-translation-btns" id="bible-search-translation-btns">
+                <button class="bible-btn" data-json="svd-1865.json">فاندايك القديمة</button>
+                <button class="bible-btn" data-json="svd-1999.json">فاندايك الحديثة</button>
+                <button class="bible-btn" data-json="nva-2012.json">الحياة</button>
+                <button class="bible-btn" data-json="sat-2016.json">العربية المبسطة</button>
+                <button class="bible-btn" data-json="sab-2023.json">الكتاب الشريف</button>
+                <button class="bible-btn" data-json="gna-1993.json">العربية المشتركة</button>
+                <button class="bible-btn" data-json="cav-2018.json">الكاثوليكية اليسوعية</button>
+            </div>
+        </section>
+        <section class="bible-search-box" style="background: var(--white); border-radius: 12px; box-shadow: var(--shadow); max-width: 700px; margin: 2rem auto 1.5rem auto; padding: 2rem 1.5rem 1.2rem 1.5rem; display: flex; flex-direction: column; gap: 1.1rem;">
+            <label for="bible-search-text" class="bible-search-label" style="font-weight:700;font-size:1.08rem;">اكتب نص الآية أو جزء منه:</label>
+            <textarea id="bible-search-text" class="bible-search-input" rows="3" placeholder="مثال: في البدء خلق الله ..." style="width:100%;font-family:'Amiri',serif;font-size:1.08rem;border-radius:7px;border:1px solid #bbb;padding:0.7rem 0.9rem;resize:vertical;min-height:60px;max-height:200px;"></textarea>
+            <div class="bible-search-options" style="display:flex;gap:1.5rem;font-size:1.01rem;align-items:center;">
+                <label style="order:2"><input type="radio" name="bible-tashkeel" value="with"> بالتشكيل</label>
+                <label style="order:1"><input type="radio" name="bible-tashkeel" value="without" checked> بدون تشكيل</label>
+            </div>
+            <button id="bible-search-btn" class="bible-search-btn" style="background:var(--primary);color:var(--white);font-family:'Amiri',serif;font-size:1.08rem;border:none;border-radius:7px;padding:0.6rem 2.2rem;cursor:pointer;font-weight:700;transition:background 0.2s;">بحث</button>
+        </section>
+        <div style="background:#fff;max-width:700px;margin:1.5rem auto 0 auto;padding:2rem 1.5rem;border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08);display:flex;flex-direction:column;align-items:center;">
+            <div id="bible-search-results" style="width:100%;direction:rtl;text-align:right;"></div>
+        </div>
+    </main>
+
+    <script src="../script.js"></script>
+    <script src="script-bible-search.js"></script>
+
+    <footer class="site-footer">
+        <div class="footer-content">
+            جميع الحقوق محفوظة &copy; شبكة المناظرة 2026
+        </div>
+    </footer>
+</body>
+</html>
