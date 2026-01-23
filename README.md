@@ -1,4 +1,4 @@
-# DebateNetwork
+# Debate Network
 
 ## English
 
@@ -43,3 +43,4 @@ Open `index.html` in your browser to start using the application. Navigate throu
 
 ### طريقة الاستخدام
 افتح ملف `index.html` في المتصفح لبدء استخدام التطبيق. يمكنك التنقل بين المجلدات للوصول إلى الموارد المختلفة.
+
