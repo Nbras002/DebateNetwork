@@ -21,7 +21,6 @@ DebateNetwork is a web-based project that provides access to a variety of religi
 ### Usage
 Open `index.html` in your browser to start using the application. Navigate through the folders for specific resources.
 
-### Link: https://debatenetwork.onrender.com
 
 * If the link does not work, use a local server or a public server.
 
@@ -49,10 +48,5 @@ Open `index.html` in your browser to start using the application. Navigate throu
 افتح ملف `index.html` في المتصفح لبدء استخدام التطبيق. يمكنك التنقل بين المجلدات للوصول إلى الموارد المختلفة.
 
 
-
-### الرابط: https://debatenetwork.onrender.com
-
 * إذا لم يعمل الرابط استخدم خادم محلي أو خادم عام.
-
-
 
