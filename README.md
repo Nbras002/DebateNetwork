@@ -21,7 +21,7 @@ DebateNetwork is a web-based project that provides access to a variety of religi
 ### Usage
 Open `index.html` in your browser to start using the application. Navigate through the folders for specific resources.
 
-### Link: https://nbras002.github.io/DebateNetwork or https://debatenetwork.onrender.com
+### Link: https://debatenetwork.onrender.com
 
 * If the link does not work, use a local server or a public server.
 
@@ -29,7 +29,7 @@ Open `index.html` in your browser to start using the application. Navigate throu
 
 ## العربية
 
-مشروع DebateNetwork هو مشروع ويب يتيح الوصول إلى مجموعة متنوعة من النصوص الدينية، بما في ذلك القرآن الكريم والحديث الشريف والكتاب المقدس، مع ميزات البحث والمقارنة. المشروع منظم في عدة أقسام، كل قسم مخصص لنص أو مصدر معين، ويحتوي على سكريبتات وملفات بيانات لزيادة التفاعل.
+مشروع شبكة المناظرة هو مشروع ويب يتيح الوصول إلى مجموعة متنوعة من النصوص الدينية، بما في ذلك القرآن الكريم والحديث الشريف والكتاب المقدس، مع ميزات البحث والمقارنة. المشروع منظم في عدة أقسام، كل قسم مخصص لنص أو مصدر معين، ويحتوي على سكريبتات وملفات بيانات لزيادة التفاعل.
 
 ### الميزات
 - نصوص القرآن الكريم والكتاب المقدس والحديث مع أدوات البحث والمقارنة
@@ -50,8 +50,9 @@ Open `index.html` in your browser to start using the application. Navigate throu
 
 
 
-### الرابط: https://nbras002.github.io/DebateNetwork أو https://debatenetwork.onrender.com
+### الرابط: https://debatenetwork.onrender.com
 
 * إذا لم يعمل الرابط استخدم خادم محلي أو خادم عام.
+
 
 
